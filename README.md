@@ -2,8 +2,9 @@
 https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe
 
 TODO
-- Future Proof / Error Handling !
-- Before adding new mechanics or items/conditions/etc ensure that the robot approves!
+- Debugging/ Logging / Error Handling
+- New mechanics/items/conditions/etc
+- Documentation/Proper Versions
 
 
 ======================================
