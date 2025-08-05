@@ -6,7 +6,7 @@ TODO
 - Before adding new mechanics or items/conditions/etc ensure that the robot approves!
 
 
-
+======================================
             Python Game Ideas
 ======================================
 
