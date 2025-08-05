@@ -6,9 +6,9 @@ TODO
 - Before adding new mechanics or items/conditions/etc ensure that the robot approves!
 
 
-===========================================
+
             Python Game Ideas
-===========================================
+======================================
 
 Text-based; Input-handler with Regex match for commands
 
