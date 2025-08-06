@@ -8,6 +8,8 @@ python: https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe
 - New mechanics/items/conditions/etc
 - Documentation/Proper Versions
 
+- Action Cost needs to be its own mechanic, ensuring the action is not performed if the player does not have enough action to perform it.
+
 # Bio
 Welcome to Duel, where you collect magical artifacts, weapons, clothes, and tools to aid in your battle against your arch-nemesis, your best friend! Your once beloved comrade has turned their back on you, all in the name of evil! Or is it good? Oh well, you two have always had something to fight about, so get at it!
 
@@ -54,6 +56,8 @@ A set bonus is provided upon completing three pieces. Once certain weapons/acces
 - Item that does more damage to heavily/lightly armored/shielded targets or ignores armor/shields.
 - Items with positive and negative effects (think lunar items from RoR2).
 - Item with random chance to block next damage.
+- Item that upon use has a random chance to reach into the endless bag and end the player's turn
+- Item that must be constructed or require concentration over a few turns.
 
 ## Prototype GUI
 ❤️ 𝓗𝓮𝓪𝓵𝓽𝓱 𝟏𝟎𝟎 / 𝟏𝟎𝟎
