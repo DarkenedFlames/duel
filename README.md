@@ -28,15 +28,7 @@ A set bonus is provided upon completing three pieces. Once certain weapons/acces
 - **Caster Set**: Cloak, Robe, Focus
 - **Assassin Set**: Hood, Jacket, Light Shoes
         
-## Consumables
-Potions buff, flasks hurt. Consumables are one-time use items.
-- **Health Potion**: Gain HP
-- **Speed Potion**: Gain AP
-- **Purity Potion**: Cleanse all negative conditions
-- **Cata-Tonic**: Lose all AP and become invulnerable until your next turn.
-- **Flask of Opportunity**: Your opponent receives increased damage until your turn ends.
-- **Flask of Slumber**: Your opponent has reduced AP on their next turn.
-- **Flask of Agony**: Your opponent may not heal on their next few turns.
+
 
 ## Accessories
 ### Common
