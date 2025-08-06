@@ -55,12 +55,13 @@ Potions buff, flasks hurt. Consumables are one-time use items.
 ## Miscellaneous Ideas
 - Items whose behavior depends on system time.
 - Items whose behavior depends on simple mini-games.
-- Items whose behavior depends on the current stats of the player or enemy.
+- Items whose behavior depends on the current stats, items, equipment, or conditions of the player or enemy.
 - Items whose behavior depends on the number of turns that have passed, or whose turn it currently is.
 - Items whose behavior depends on the number of unique conditions a player has.
-- Item that reduces the opponent's armor with consecutive attacks.
+- Item that reduces the opponent's armor/shield with consecutive attacks.
 - Item that does more damage to heavily/lightly armored/shielded targets or ignores armor/shields.
 - Items with positive and negative effects (think lunar items from RoR2).
+- Item with random chance to block next damage.
 
 ## Prototype GUI
 ❤️ 𝓗𝓮𝓪𝓵𝓽𝓱 𝟏𝟎𝟎 / 𝟏𝟎𝟎
