@@ -22,42 +22,6 @@ Welcome to Duel, where you collect magical artifacts, weapons, clothes, and tool
 # Ideas
 Rarer items have lower chances of being found, but players may select their next drawing location to alter their chances for various items.
 
-## Armor Sets
-A set bonus is provided upon completing three pieces. Once certain weapons/accessories are obtained, other bonuses may be obtained.
-- **Ninja Set**: Gi, Obi, Tabi
-- **Warrior Set**: Sallet, Breastplate, Greaves
-- **Barbarian Set**: Bone Crown, Tigerskin, Loincloth
-- **Caster Set**: Cloak, Robe, Focus
-- **Assassin Set**: Hood, Jacket, Light Shoes
-        
-
-
-## Accessories
-### Common
-- **Sharpening Ston**e: Increased Damage
-- **Turtle Shell**: Increased Armor
-- **Caffeine Leaf**: Increased AP
-
-### Rare
-- **Fire Charm**: All attacks cause Burning
-- **Ice Charm**: All attacks cause Freezing
-- **Rock Charm**: All attacks cause Vulnerable
-
-### Mythical
-- **Unfair Advantage**: Skip your opponent's next turn.
-
-## Miscellaneous Ideas
-- Items whose behavior depends on system time.
-- Items whose behavior depends on simple mini-games.
-- Items whose behavior depends on the current stats, items, equipment, or conditions of the player or enemy.
-- Items whose behavior depends on the number of turns that have passed, or whose turn it currently is.
-- Items whose behavior depends on the number of unique conditions a player has.
-- Item that reduces the opponent's armor/shield with consecutive attacks.
-- Item that does more damage to heavily/lightly armored/shielded targets or ignores armor/shields.
-- Items with positive and negative effects (think lunar items from RoR2).
-- Item with random chance to block next damage.
-- Item that upon use has a random chance to reach into the endless bag and end the player's turn
-- Item that must be constructed or require concentration over a few turns.
 
 ## Prototype GUI
 ❤️ 𝓗𝓮𝓪𝓵𝓽𝓱 𝟏𝟎𝟎 / 𝟏𝟎𝟎
